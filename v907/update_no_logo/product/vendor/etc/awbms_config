@@ -1,0 +1,23 @@
+debug: false
+limit: 12
+threadCheck: true
+memoryCheck: true
+memoryLimit: 450,0
+memoryTrim: true
+skipService: true
+blockBroadcast: false
+lmk: false
+lmk_level: 100,150,250
+lmk_adj: 99,200,600
+
+whitelist:
+android
+com.android
+com.google
+com.clock
+com.dnake
+com.qding
+com.smiljkovic
+
+action:
+com.android.cts.verifier.camera.its.START
