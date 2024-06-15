@@ -1,0 +1,2 @@
+No., Group, Name, Password, Building, Unit, Apt No., Device No., IP address, Mask, Gateway, DNS, MAC address, Status
+7,Group,Stan 7,123456,1,1,7,0,192.168.68.17,255.255.255.0,192.168.68.1,8.8.8.8,BC:F8:11:52:D1:5B,
