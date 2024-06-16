@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sys>
+  <admin>
+    <passwd>123456</passwd>
+    <web_passwd>123456</web_passwd>
+    <user_passwd>1234</user_passwd>
+  </admin>
+  <talk>
+    <building>1</building>
+    <unit>1</unit>
+    <floor>0</floor>
+    <family>
+    </family>
+    <dcode>0</dcode>
+    <sync>627278</sync>
+    <cms_enable>1</cms_enable>
+    <server>192.168.12.40</server>
+    <passwd>123456</passwd>
+    <timeout>120</timeout>
+    <ringing>35</ringing>
+    <auto_msg>0</auto_msg>
+    <auto_answer>0</auto_answer>
+    <onu_arp>0</onu_arp>
+  </talk>
+  <sip>
+    <ex_enable>0</ex_enable>
+    <display_name />
+    <proxy>sip:192.168.12.40</proxy>
+    <realm>192.168.12.40</realm>
+    <realm_port />
+    <ex_user />
+    <ex_userid />
+    <passwd>123456</passwd>
+    <outbound>sip::5060</outbound>
+    <outbound_port>5060</outbound_port>
+    <multicast>224.0.2.1:50001</multicast>
+    <ex_transport>0</ex_transport>
+    <ring_code>183</ring_code>
+    <nvideo>0</nvideo>
+    <host2id>0</host2id>
+    <ex_slv>0</ex_slv>
+    <ex_slv0>0</ex_slv0>
+    <ex_slv_url0 />
+    <ex_slv1>0</ex_slv1>
+    <ex_slv_url1 />
+    <ex_slv2>0</ex_slv2>
+    <ex_slv_url2 />
+    <ex_slv3>0</ex_slv3>
+    <ex_slv_url3 />
+    <ex_slv4>0</ex_slv4>
+    <ex_slv_url4 />
+    <ex_slv5>0</ex_slv5>
+    <ex_slv_url5 />
+  </sip>
+  <volume>
+    <sys>12</sys>
+    <talk>0</talk>
+    <ringtone_index>9</ringtone_index>
+    <key_tone>1</key_tone>
+  </volume>
+  <display>
+    <bright>209</bright>
+    <sleep>60</sleep>
+    <screen_lock>0</screen_lock>
+  </display>
+  <time>
+    <tz>Europe/Belgrade</tz>
+    <is24>1</is24>
+    <format>1</format>
+    <ntp_enable>1</ntp_enable>
+    <ntp_server>2.europe.pool.ntp.org</ntp_server>
+  </time>
+  <dnd_set>
+    <mode>0</mode>
+  </dnd_set>
+  <payload>
+    <h264>102</h264>
+  </payload>
+  <special_advanced>
+    <model>H618</model>
+  </special_advanced>
+  <feed>
+    <max>0</max>
+  </feed>
+  <rtsp>
+    <url />
+  </rtsp>
+  <sos>
+    <delay>0</delay>
+  </sos>
+  <whitelist>
+    <enable>0</enable>
+  </whitelist>
+  <sensor>
+    <p_enable>1</p_enable>
+    <l_enable>1</l_enable>
+  </sensor>
+  <tuya>
+    <uuid>dnkzfc077f3bc6ebafce</uuid>
+    <key>9Ks61dpk1zOksuEli77Pvmg6UiIoX6vE</key>
+    <qr>https://m.smart321.com/AYwn0jxq</qr>
+  </tuya>
+</sys>
